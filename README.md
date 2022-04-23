@@ -3,7 +3,7 @@
 
 LINUX RESOURCES, PRACTICES AND MY NOTES
 
-LINUX System Lab Setup and ManagemenT:
+LINUX System Lab Setup and Management:
 
 *	Install and configure CentOS Linux on virtual environment
 *	Password Management
